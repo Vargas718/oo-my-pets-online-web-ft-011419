@@ -80,10 +80,10 @@ class Owner
    end 
    
    def list_pets
-    pets 
+    
      
      
-    puts  "I have #{pets[:fish].size} fish, #{pets[:dogs].size]} dog(s), and 1 cat(s)."
+    puts  "I have #{pets[:fish].size} fish, #{pets[:dogs].size} dog(s), and 1 cat(s)."
      
      
      binding.pry
