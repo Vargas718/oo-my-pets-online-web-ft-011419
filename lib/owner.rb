@@ -71,7 +71,7 @@ class Owner
    end 
    
    def sell_pets 
-     pets.each {|name, mood| name}
+     
      binding.pry
    end 
 end
