@@ -86,7 +86,7 @@ class Owner
    pets
      
      
-     binding.pry
+    # binding.pry
      
     end 
 end
