@@ -83,7 +83,7 @@ class Owner
     
      
      
-    puts  "I have #{pets[fish].size} fish, #{pets[:dogs].size} dog(s), and 1 cat(s)."
+    puts  "I have #{pets[:fish].size} fish, #{pets[:dogs].size} dog(s), and #{pets[:cats].size} cat(s)."
      
      
      binding.pry
