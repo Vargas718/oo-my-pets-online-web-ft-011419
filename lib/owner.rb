@@ -86,7 +86,7 @@ class Owner
     puts  "I have #{pets[:fish].size} fish, #{pets[:dogs].size]} dog(s), and 1 cat(s)."
      
      
-     
+     binding.pry
      
     end 
 end
